@@ -1,7 +1,5 @@
 
-<p align="center">
-    <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
-</p>
+
 
 <p align="center">
     <strong>CrossE is a knowledge graph emebdding method proved to be good at providing explanations</strong>
